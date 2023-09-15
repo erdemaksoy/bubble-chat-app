@@ -1,5 +1,11 @@
 Bubble Chat App
 
+IN THIS PAGE NO BUILD FILE INCLUDED!!!!!!!!!
+THESE ARE THE PACKAGES:
+
+![image](https://github.com/erdemaksoy/bubble-chat-app/assets/79666268/72564bb2-5c1c-4213-bd3e-3c9867314738)
+
+
 Flutter framework and dart language were used while developing the project.
 
 Developed in Android Studio environment.
