@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "214411737466",
+    "project_id": "yasarstaj",
+    "storage_bucket": "yasarstaj.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:214411737466:android:3011c4da6fe037167bbec3",
+        "android_client_info": {
+          "package_name": "com.example.firebase_chat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "214411737466-cikc66121q0dnrki9e8960aiuv3k1lqf.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDhoybP68DM8hBujJBYmd-JNayQip-eRMg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "214411737466-cikc66121q0dnrki9e8960aiuv3k1lqf.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "214411737466-1674i2ou2nh7q1u1vsh0kgbkaphtss1d.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.firebaseChat"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
