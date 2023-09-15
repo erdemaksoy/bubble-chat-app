@@ -1,16 +1,32 @@
-# firebase_chat
+Bubble Chat App
 
-A new Flutter project.
+Flutter framework and dart language were used while developing the project.
 
-## Getting Started
+Developed in Android Studio environment.
 
-This project is a starting point for a Flutter application.
+Firebase database used for user information.
 
-A few resources to get you started if this is your first Flutter project:
+Welcome Page
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+![image](https://github.com/erdemaksoy/bubble-chat-app/assets/79666268/6898897d-b73d-4b86-b899-11edfd31d267)
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Login Page
+
+![image](https://github.com/erdemaksoy/bubble-chat-app/assets/79666268/53474b8f-b605-488a-9d33-bcc5032409a5)
+
+Contact and Profile
+
+![image](https://github.com/erdemaksoy/bubble-chat-app/assets/79666268/2104e0ba-64c3-4e48-bd8b-ba8ea9060048)
+
+Last Text Page
+
+![image](https://github.com/erdemaksoy/bubble-chat-app/assets/79666268/3c803e76-7ee9-41d6-bb08-6d0a70c95f6c)
+
+
+Chat Page
+
+![image](https://github.com/erdemaksoy/bubble-chat-app/assets/79666268/0dc9a12d-ef80-47f1-b338-31df898dfdd1)
+
+
+
+
